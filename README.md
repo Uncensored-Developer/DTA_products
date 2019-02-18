@@ -11,4 +11,7 @@ the API by default runs on http://localhost:8081/api/v1
 the API can be tested with POSTMAN
 http://localhost:8081/api/v1/products returns all products
 
+the web can url
+https://dta-web1.herokuapp.com
+
 
